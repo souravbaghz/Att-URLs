@@ -20,3 +20,5 @@ file:///sdcard/
 file:///storage/
 
 file:///
+
+https://training.hackersera.com/hackoff.html
