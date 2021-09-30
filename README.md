@@ -21,4 +21,4 @@ file:///storage/
 
 file:///
 
-https://training.hackersera.com/hackoff.html
+https://training.hackersera.com/hack.apk
