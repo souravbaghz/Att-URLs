@@ -1,9 +1,11 @@
 # URLs & Attributes for Testing
-Don't need to think, it's for personal projects.
+<i>For Personal Works </i>
  
 <b> URLs:-
 
 https://www.whatsmyua.info/
+
+https://www.whatsmybrowser.org/
 
 https://google.com
 
@@ -11,7 +13,7 @@ https://youtube.com
 
 http://testphp.vulnweb.com/login.php
 
-<b> Attributes:-
+<b> Attributes:-</b>
 
 file:///
 
