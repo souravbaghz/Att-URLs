@@ -1,21 +1,25 @@
-# testing
-For Testing 
+# URLs & Attributes for Testing
+Don't need to think, it's for personal projects.
 
-https://www.whatsmyua.info/
++ URLs:-
 
-https://google.com
+        https://www.whatsmyua.info/
 
-https://youtube.com
+        https://google.com
 
-http://testphp.vulnweb.com/login.php
+        https://youtube.com
 
-file:///
+        http://testphp.vulnweb.com/login.php
 
-file:///etc/passwd
++ Attributes:-
 
-file:///sdcard/
+        file:///
 
-file:///storage/
+        file:///etc/passwd
 
-file:///
+        file:///sdcard/
+
+        file:///storage/
+
+        file:///
 
