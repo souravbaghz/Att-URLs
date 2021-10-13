@@ -17,6 +17,10 @@ http://mobileap.qualcomm.com
 
 https://mobileap.qualcomm.com
 
+https://localhost
+
+http://localhost
+
 <b> Attributes:-</b>
 
 file:///
