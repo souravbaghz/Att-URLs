@@ -15,7 +15,7 @@ http://testphp.vulnweb.com/login.php
 
 http://mobileap.qualcomm.com
 
-mobileap.qualcomm.com
+https://mobileap.qualcomm.com
 
 <b> Attributes:-</b>
 
