@@ -25,15 +25,7 @@ http://localhost
 
 file:///etc/passwd
 
-C:
-
-A:
-
-B:
-
-D:
-
-E:
+ C:
 
 file:///sdcard/
 
