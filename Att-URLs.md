@@ -13,9 +13,7 @@ https://youtube.com
 
 http://testphp.vulnweb.com/login.php
 
-http://mobileap.qualcomm.com
-
-https://mobileap.qualcomm.com
+https://upload.io/uploader
 
 https://localhost
 
