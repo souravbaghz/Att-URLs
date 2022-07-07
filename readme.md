@@ -25,6 +25,16 @@ http://localhost
 
 file:///etc/passwd
 
+C:
+
+A:
+
+B:
+
+D:
+
+E:
+
 file:///sdcard/
 
 file:///storage/
